@@ -23,5 +23,3 @@ def valid_parentheses(string: str) -> bool:
     if balanced and s.isEmpty():
         return True
     return False
-
-val
