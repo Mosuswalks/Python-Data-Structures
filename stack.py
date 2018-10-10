@@ -3,7 +3,9 @@
 #
 
 class Stack:
-
+    '''
+        My own implementation of an Array Based Stack Class
+    '''
     def __init__(self):
         self.items = []
     
