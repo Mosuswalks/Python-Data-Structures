@@ -1,9 +1,11 @@
 import sys
 sys.path.append('../Python-Data-Structures')
 from stack import Stack
+
 # Bonus: 
 # Write an algorithm that will read a string of parentheses from
 # left to right and decide whether the symbols are balanced.
+#
 #
 #
 

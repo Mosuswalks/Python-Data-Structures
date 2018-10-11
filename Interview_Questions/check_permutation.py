@@ -1,7 +1,9 @@
 
-# Q.2: Given two strings, write a method to decide if one is a permutation of the other.
+# Q.1.2: 
+# 
+# Given two strings, write a method to decide if one is a permutation of the other.
 #
-# We can start by checking if either string is of a different length. 
+# We can start by checking the lengths of both strings. 
 # If either string is of a different length, then we know the strings are not permutations of eachother.
 # Finally, we compare the sorted elements of each string and return the result.
 #

@@ -3,8 +3,11 @@ My own implementations of various Data Structures and the Algorithms that accomp
 * Array based Stack implementation
 
 
-## Interview Questions
+# Interview Questions
+### Arrays and Strings
 1. is_unique: Implement an algorithm to determine if a string has all unique characters.
-    1. is_unique: What if you cannot use additional Data Structures?
+    1. Bonus: What if you cannot use additional Data Structures?
     
 2. check_permutation: Given two strings, write a method to decide if one is a permutation of the other.
+
+3. 
